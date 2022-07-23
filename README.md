@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 이메일✉️ - kimkyunghun3@naver.com
 
 블로그📝 - [Eddy](https://velog.io/@kkh3)
+
+Portfolio🧑‍💻 - [Portfolio](https://power-cobbler-a88.notion.site/Resume-dea2c56ff6204f818e11a43299a461a9)
