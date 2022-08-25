@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 블로그📝 - [Eddy](https://velog.io/@kkh3)
 
-Portfolio🧑‍💻 - [Portfolio](https://power-cobbler-a88.notion.site/Resume-dea2c56ff6204f818e11a43299a461a9)
+Portfolio🧑‍💻 - [Portfolio](https://www.figma.com/file/CVb4o3SZMv8IMKBzl2L10J/%EA%B9%80%EA%B2%BD%ED%9B%88_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=0%3A1)
