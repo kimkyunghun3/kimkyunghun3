@@ -24,4 +24,11 @@ Here are some ideas to get you started:
 
 블로그📝 - [Eddy](https://velog.io/@kkh3)
 
-Portfolio🧑‍💻 - [Portfolio](https://www.figma.com/file/CVb4o3SZMv8IMKBzl2L10J/%EA%B9%80%EA%B2%BD%ED%9B%88_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=0%3A1)
+<details>
+<summary>출시앱📱</summary>
+
+[DDip](https://apps.apple.com/kr/app/ddip-%EB%9D%B1-%EB%AF%B8%EC%82%AC%EC%9A%A9-%EA%B8%B0%ED%94%84%ED%8B%B0%EC%BD%98%EC%9D%84-%EC%B2%98%EB%A6%AC%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94/id1638907400)
+
+[Rrrr](https://apps.apple.com/kr/app/rrrr/id1558135806)
+</details>
+
