@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <details>
 <summary>출시앱📱</summary>
 
-[DDip](https://apps.apple.com/kr/app/ddip-%EB%9D%B1-%EB%AF%B8%EC%82%AC%EC%9A%A9-%EA%B8%B0%ED%94%84%ED%8B%B0%EC%BD%98%EC%9D%84-%EC%B2%98%EB%A6%AC%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94/id1638907400)
+기프티콘 관리 및 뿌리기 앱 - [DDip](https://apps.apple.com/kr/app/ddip-%EB%9D%B1-%EB%AF%B8%EC%82%AC%EC%9A%A9-%EA%B8%B0%ED%94%84%ED%8B%B0%EC%BD%98%EC%9D%84-%EC%B2%98%EB%A6%AC%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94/id1638907400)
 
-[Rrrr](https://apps.apple.com/kr/app/rrrr/id1558135806)
+커스터 알람 앱 - [Rrrr](https://apps.apple.com/kr/app/rrrr/id1558135806)
 </details>
 
